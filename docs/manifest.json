@@ -1,0 +1,8 @@
+{
+    "name": "CS 546 Assignment 3",
+    "short_name": "assignment3",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
